@@ -58,5 +58,7 @@ I am actively preparing for junior cybersecurity and penetration testing roles. 
 Contact
 
 Email: samtarun735@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/p-sam-tarun-850903293/
+
 Hack The Box: https://app.hackthebox.com/users/3042007
